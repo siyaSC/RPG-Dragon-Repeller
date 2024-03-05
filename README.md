@@ -15,8 +15,6 @@ Welcome to the Dragon Repeller project! A responsive web app game were you must 
 2. Navigate to project file then run python3 -m http.server 5050
 3. Click the link in the terminal to open the browser to start the game {(http://0.0.0.0:5050/)}.
 
-
-
 ## Gameplay
 
 - **Stats Section:** Keep an eye on your XP, Health, and Gold.
